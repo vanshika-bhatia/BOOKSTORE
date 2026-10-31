@@ -7,6 +7,7 @@ import {
   ShoppingCartOutlined,
   HeartOutlined,
   SearchOutlined,
+  DatabaseOutlined,
 } from "@ant-design/icons";
 
 const { Header } = Layout;
@@ -21,6 +22,7 @@ interface NavbarProps {
   wishlistCount: number;
   onOpenCart: () => void;
   onOpenWishlist: () => void;
+  onOpenOrders: () => void;
 }
 
 const CATEGORIES = [
@@ -44,6 +46,7 @@ export default function Navbar({
   wishlistCount,
   onOpenCart,
   onOpenWishlist,
+  onOpenOrders,
 }: NavbarProps) {
   return (
     <Header
@@ -135,8 +138,15 @@ export default function Navbar({
             />
           </div>
 
-          {/* User actions: Wishlist & Cart */}
+          {/* User actions: Wishlist, DB Orders & Cart */}
           <Space size="middle">
+            <Button
+              icon={<DatabaseOutlined style={{ color: "#52c41a" }} />}
+              onClick={onOpenOrders}
+            >
+              DB Orders
+            </Button>
+
             <Badge count={wishlistCount} offset={[-2, 5]} color="#eb2f96">
               <Button
                 icon={<HeartOutlined style={{ color: "#eb2f96" }} />}
@@ -208,3 +218,4 @@ export default function Navbar({
     </Header>
   );
 }
+

@@ -18,7 +18,6 @@ import {
 import {
   ReloadOutlined,
   BookOutlined,
-  FilterOutlined,
 } from "@ant-design/icons";
 
 import { Book, BooksResponse, CartItem } from "@/types/book";
@@ -27,6 +26,7 @@ import BookCard from "@/components/BookCard";
 import BookDetailModal from "@/components/BookDetailModal";
 import CartDrawer from "@/components/CartDrawer";
 import WishlistDrawer from "@/components/WishlistDrawer";
+import OrdersDrawer from "@/components/OrdersDrawer";
 import { getBookPrice } from "@/utils/helpers";
 
 const { Content, Footer } = Layout;
@@ -62,6 +62,7 @@ export default function BooksPage() {
   // Drawers open/close state
   const [isCartOpen, setIsCartOpen] = useState(false);
   const [isWishlistOpen, setIsWishlistOpen] = useState(false);
+  const [isOrdersOpen, setIsOrdersOpen] = useState(false);
 
   // -------------------------------------------------------------
   // 2. REFS FOR INFINITE SCROLL & API PAGINATION
@@ -307,6 +308,7 @@ export default function BooksPage() {
         wishlistCount={wishlist.length}
         onOpenCart={() => setIsCartOpen(true)}
         onOpenWishlist={() => setIsWishlistOpen(true)}
+        onOpenOrders={() => setIsOrdersOpen(true)}
       />
 
       <Content
@@ -468,8 +470,7 @@ export default function BooksPage() {
         }}
       >
         <BookOutlined style={{ marginRight: 6, color: "#1677ff" }} />
-        <strong>BookStore FrontEnd</strong> — Developed with Next.js, React, TypeScript,
-        and Ant Design. Powered by Gutendex Project Gutenberg API.
+        <strong>BookStore Full Stack</strong> — Next.js · React · TypeScript · Ant Design · MongoDB. Powered by Gutendex Project Gutenberg API.
       </Footer>
 
       {/* Back to top floating button */}
@@ -505,6 +506,13 @@ export default function BooksPage() {
         onRemoveFromWishlist={handleRemoveFromWishlist}
         onMoveToCart={handleMoveToCart}
       />
+
+      {/* MongoDB Orders Drawer — shows all orders saved in database */}
+      <OrdersDrawer
+        isOpen={isOrdersOpen}
+        onClose={() => setIsOrdersOpen(false)}
+      />
     </Layout>
   );
 }
+

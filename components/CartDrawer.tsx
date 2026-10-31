@@ -51,6 +51,8 @@ export default function CartDrawer({
 }: CartDrawerProps) {
   const [isCheckoutModalOpen, setIsCheckoutModalOpen] = useState(false);
   const [checkoutSuccess, setCheckoutSuccess] = useState(false);
+  const [isSubmitting, setIsSubmitting] = useState(false);
+  const [orderFeedback, setOrderFeedback] = useState<string | null>(null);
   const [form] = Form.useForm();
 
   // Calculate total amount
@@ -61,9 +63,65 @@ export default function CartDrawer({
   const shipping = subtotal > 35 || subtotal === 0 ? 0 : 4.99;
   const grandTotal = subtotal + shipping;
 
-  const handleCheckoutSubmit = (values: any) => {
-    // Simulated checkout completion
-    setCheckoutSuccess(true);
+  const handleCheckoutSubmit = async (values: any) => {
+    setIsSubmitting(true);
+    setOrderFeedback(null);
+
+    // Prepare full-stack order payload for MongoDB
+    const payload = {
+      fullName: values.fullName,
+      email: values.email,
+      address: values.address,
+      paymentMethod: values.payment,
+      items: cart.map((item) => ({
+        bookId: item.book.id,
+        title: item.book.title,
+        author: item.book.authors[0]
+          ? formatAuthorName(item.book.authors[0].name)
+          : "Unknown Author",
+        price: item.price,
+        quantity: item.quantity,
+        coverUrl: getBookCoverUrl(item.book),
+      })),
+      subtotal,
+      shipping,
+      grandTotal,
+    };
+
+    try {
+      // POST order to our Next.js backend API
+      const response = await fetch("/api/orders", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+      });
+
+      const data = await response.json();
+
+      if (response.ok && data.success) {
+        setOrderFeedback(
+          `Order successfully saved to MongoDB (ID: #${data.order._id.slice(-6).toUpperCase()})!`
+        );
+        setCheckoutSuccess(true);
+      } else {
+        // If MongoDB isn't connected yet (user hasn't put creds in .env), inform gracefully
+        setOrderFeedback(
+          data.error ||
+            "Order processed locally. (Set your MONGODB_URI in .env to save orders to MongoDB)."
+        );
+        setCheckoutSuccess(true);
+      }
+    } catch (err: any) {
+      console.warn("Backend order submission error:", err);
+      setOrderFeedback(
+        "Order processed locally. (Could not connect to MongoDB server)."
+      );
+      setCheckoutSuccess(true);
+    } finally {
+      setIsSubmitting(false);
+    }
   };
 
   const handleCloseCheckout = () => {
@@ -71,6 +129,8 @@ export default function CartDrawer({
     if (checkoutSuccess) {
       onClearCart();
       setCheckoutSuccess(false);
+      setOrderFeedback(null);
+      form.resetFields();
       onClose();
     }
   };
@@ -291,7 +351,10 @@ export default function CartDrawer({
           <Result
             status="success"
             title="Thank You For Your Order!"
-            subTitle="Your books have been processed and confirmed. A confirmation receipt has been simulated."
+            subTitle={
+              orderFeedback ||
+              "Your order has been confirmed and saved to MongoDB!"
+            }
             extra={[
               <Button type="primary" key="back" onClick={handleCloseCheckout}>
                 Continue Shopping
@@ -354,8 +417,14 @@ export default function CartDrawer({
               </Text>
             </div>
 
-            <Button type="primary" htmlType="submit" block size="large">
-              Place Order (${grandTotal.toFixed(2)})
+            <Button
+              type="primary"
+              htmlType="submit"
+              block
+              size="large"
+              loading={isSubmitting}
+            >
+              {isSubmitting ? "Saving Order to MongoDB..." : `Place Order ($${grandTotal.toFixed(2)})`}
             </Button>
           </Form>
         )}

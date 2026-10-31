@@ -4,3 +4,4 @@ import BooksPage from "./books/page";
 export default function HomePage() {
   return <BooksPage />;
 }
+

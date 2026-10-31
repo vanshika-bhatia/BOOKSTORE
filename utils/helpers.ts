@@ -36,3 +36,4 @@ export function getBookReadUrl(book: Book): string | null {
     null
   );
 }
+
