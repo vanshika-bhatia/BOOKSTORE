@@ -1,0 +1,1234 @@
+device-width, initial-scale
+--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:
+fff;--tw-ring-color:rgba
+;--tw-ring-offset-shadow:0 0 
+0000;--tw-ring-shadow:0 0 
+0000;--tw-shadow:0 0 
+0000;--tw-shadow-colored:0 0 
+0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: 
+--tw-border-spacing-x:0;--tw-border-spacing-y:0;--tw-translate-x:0;--tw-translate-y:0;--tw-rotate:0;--tw-skew-x:0;--tw-skew-y:0;--tw-scale-x:1;--tw-scale-y:1;--tw-pan-x: ;--tw-pan-y: ;--tw-pinch-zoom: ;--tw-scroll-snap-strictness:proximity;--tw-gradient-from-position: ;--tw-gradient-via-position: ;--tw-gradient-to-position: ;--tw-ordinal: ;--tw-slashed-zero: ;--tw-numeric-figure: ;--tw-numeric-spacing: ;--tw-numeric-fraction: ;--tw-ring-inset: ;--tw-ring-offset-width:0px;--tw-ring-offset-color:
+fff;--tw-ring-color:rgba
+;--tw-ring-offset-shadow:0 0 
+0000;--tw-ring-shadow:0 0 
+0000;--tw-shadow:0 0 
+0000;--tw-shadow-colored:0 0 
+0000;--tw-blur: ;--tw-brightness: ;--tw-contrast: ;--tw-grayscale: ;--tw-hue-rotate: ;--tw-invert: ;--tw-saturate: ;--tw-sepia: ;--tw-drop-shadow: ;--tw-backdrop-blur: ;--tw-backdrop-brightness: ;--tw-backdrop-contrast: ;--tw-backdrop-grayscale: ;--tw-backdrop-hue-rotate: ;--tw-backdrop-invert: ;--tw-backdrop-opacity: ;--tw-backdrop-saturate: ;--tw-backdrop-sepia: ;--tw-contain-size: ;--tw-contain-layout: ;--tw-contain-paint: ;--tw-contain-style: 
+! tailwindcss v3.4.18 
+box-sizing:border-box;border:0 solid 
+line-height:1.5;-webkit-text-size-adjust:100
+;-moz-tab-size:4;-o-tab-size:4;tab-size:4;font-family:ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-feature-settings:normal;font-variation-settings:normal;-webkit-tap-highlight-color:transparent
+height:0;color:inherit;border-top-width:1px
+-webkit-text-decoration:underline dotted;text-decoration:underline dotted
+font-size:inherit;font-weight:inherit
+color:inherit;text-decoration:inherit
+font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;font-feature-settings:normal;font-variation-settings:normal;font-size:1em
+;line-height:0;position:relative;vertical-align:baseline
+text-indent:0;border-color:inherit;border-collapse:collapse
+button,input,optgroup,select,textarea
+font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100
+;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0
+-webkit-appearance:button;background-color:transparent;background-image:none
+vertical-align:baseline
+::-webkit-inner-spin-button,::-webkit-outer-spin-button
+-webkit-appearance:textfield;outline-offset:-2px
+::-webkit-search-decoration
+-webkit-appearance:none
+::-webkit-file-upload-button
+-webkit-appearance:button;font:inherit
+blockquote,dd,dl,figure,h1,h2,h3,h4,h5,h6,hr,p,pre
+list-style:none;margin:0;padding:0
+input::-moz-placeholder,textarea::-moz-placeholder
+input::placeholder,textarea::placeholder
+audio,canvas,embed,iframe,img,object,svg,video
+display:block;vertical-align:middle
+margin-left:auto;margin-right:auto
+margin-top:.25rem;margin-bottom:.25rem
+overflow:hidden;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:1
+height:-moz-fit-content;height:fit-content
+--tw-translate-x:-50
+--tw-translate-y:-0.125rem
+--tw-translate-y:-50
+--tw-translate-x:0px
+--tw-translate-x:100
+.rotate-45,.translate-x-full
+grid-template-columns:repeat
+grid-template-columns:repeat
+flex-direction:column
+align-items:flex-start
+align-items:flex-end
+justify-content:center
+justify-content:space-between
+--tw-space-y-reverse:0;margin-top:calc
+--tw-space-y-reverse
+--tw-space-y-reverse
+--tw-space-y-reverse:0;margin-top:calc
+--tw-space-y-reverse
+--tw-space-y-reverse
+--tw-space-y-reverse:0;margin-top:calc
+--tw-space-y-reverse
+--tw-space-y-reverse
+--tw-space-y-reverse:0;margin-top:calc
+--tw-space-y-reverse
+--tw-space-y-reverse
+border-radius:.25rem
+border-radius:9999px
+border-radius:.75rem
+border-bottom-width:1px
+border-left-width:1px
+border-right-width:1px
+border-top-width:1px
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+background-color:rgba
+background-color:rgba
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+background-color:hsla
+background-color:hsla
+background-color:hsla
+background-color:hsla
+background-color:hsla
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+--tw-bg-opacity:1;background-color:rgb
+background-color:hsla
+--tw-bg-opacity:1;background-color:rgb
+background-image:linear-gradient
+--tw-gradient-from-position
+;--tw-gradient-to:rgba
+--tw-gradient-to-position
+;--tw-gradient-stops:var
+--tw-gradient-from:hsla
+--tw-gradient-from-position
+;--tw-gradient-to:hsla
+--tw-gradient-to-position
+;--tw-gradient-stops:var
+--tw-gradient-to-position
+--tw-gradient-to:hsla
+--tw-gradient-to-position
+padding-left:.5rem;padding-right:.5rem
+padding-left:.625rem;padding-right:.625rem
+padding-left:.75rem;padding-right:.75rem
+padding-left:1rem;padding-right:1rem
+padding-left:1.25rem;padding-right:1.25rem
+padding-top:.125rem;padding-bottom:.125rem
+padding-top:.25rem;padding-bottom:.25rem
+padding-top:.375rem;padding-bottom:.375rem
+padding-top:.5rem;padding-bottom:.5rem
+padding-top:.75rem;padding-bottom:.75rem
+padding-top:2rem;padding-bottom:2rem
+padding-right:2.5rem
+font-family:ui-sans-serif,system-ui,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji
+text-transform:uppercase
+letter-spacing:.18em
+letter-spacing:-.025em
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+--tw-text-opacity:1;color:rgb
+-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale
+--tw-shadow:0 1px 3px 0 rgba
+,0 1px 2px -1px rgba
+;--tw-shadow-colored:0 1px 3px 0 var
+--tw-ring-offset-shadow,0 0 
+--tw-ring-shadow,0 0 
+--tw-shadow:0 25px 50px -12px rgba
+;--tw-shadow-colored:0 25px 50px -12px var
+--tw-shadow:0 20px 60px -20px rgba
+;--tw-shadow-colored:0 20px 60px -20px var
+--tw-ring-offset-shadow,0 0 
+--tw-ring-shadow,0 0 
+--tw-shadow:0 20px 80px -30px rgba
+;--tw-shadow-colored:0 20px 80px -30px var
+--tw-ring-offset-shadow,0 0 
+--tw-ring-shadow,0 0 
+--tw-shadow:0 1px 2px 0 rgba
+;--tw-shadow-colored:0 1px 2px 0 var
+--tw-shadow:0 20px 25px -5px rgba
+,0 8px 10px -6px rgba
+;--tw-shadow-colored:0 20px 25px -5px var
+,0 8px 10px -6px var
+--tw-ring-offset-shadow,0 0 
+--tw-ring-shadow,0 0 
+outline:2px solid transparent;outline-offset:2px
+--tw-ring-offset-shadow:var
+--tw-ring-offset-width
+--tw-ring-offset-color
+;--tw-ring-shadow:var
+--tw-ring-offset-width
+--tw-ring-offset-shadow
+--tw-ring-opacity:1;--tw-ring-color:rgb
+--tw-ring-opacity:1;--tw-ring-color:rgb
+--tw-backdrop-blur:blur
+.backdrop-blur-sm,.backdrop-blur-xl
+--tw-backdrop-brightness
+--tw-backdrop-contrast
+--tw-backdrop-grayscale
+--tw-backdrop-hue-rotate
+--tw-backdrop-invert
+--tw-backdrop-opacity
+--tw-backdrop-saturate
+--tw-backdrop-blur:blur
+;transition-duration:.15s
+;transition-duration:.15s
+.transition-transform
+;transition-duration:.15s
+margin:0;font-family:ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif
+:border-zinc-300:hover
+--tw-border-opacity:1;border-color:rgb
+--tw-border-opacity,1
+--tw-bg-opacity:1;background-color:rgb
+--tw-shadow:0 1px 3px 0 rgba
+,0 1px 2px -1px rgba
+;--tw-shadow-colored:0 1px 3px 0 var
+:shadow-md:hover,.hover
+--tw-ring-offset-shadow,0 0 
+--tw-ring-shadow,0 0 
+--tw-shadow:0 4px 6px -1px rgba
+,0 2px 4px -2px rgba
+;--tw-shadow-colored:0 4px 6px -1px var
+--tw-ring-offset-shadow:var
+--tw-ring-offset-width
+--tw-ring-offset-color
+;--tw-ring-shadow:var
+--tw-ring-offset-width
+--tw-ring-offset-shadow
+:ring-violet-200:focus
+--tw-ring-opacity:1;--tw-ring-color:rgb
+grid-template-columns:repeat
+grid-template-columns:repeat
+grid-template-columns:repeat
+grid-template-columns:1fr 1fr
+grid-template-columns:240px 1fr
+padding-left:1.5rem;padding-right:1.5rem
+grid-template-columns:repeat
+grid-template-columns:repeat
+grid-template-columns:1.1fr .9fr
+getPrototypeOf:vf,defineProperty:Bl,getOwnPropertyNames:hf
+value:e,enumerable:!0
+,enumerable:!0,configurable:!0,set:
+Hn.prototype.isReactComponent
+;Hn.prototype.setState
+;this.updater.enqueueSetState
+;Hn.prototype.forceUpdate
+this.updater.enqueueForceUpdate
+new Eo;Kl.constructor
+;Kl.isPureReactComponent
+Object.prototype.hasOwnProperty,Yl
+arguments.length-2;if
+typeof:ht,type:e,key:u,ref:i,props:l,
+typeof:ht,type:e.type,key:n,ref:e.ref,props:e.props,
+Objects are not valid as a React child 
+. If you meant to render a collection of children, use an array instead.
+result.default;throw e.
+ReactCurrentDispatcher:oe,ReactCurrentBatchConfig:yr,ReactCurrentOwner:Yl
+ is not supported in production builds of React.
+React.Children.only expected to receive a single React element child.
+: The argument must be a React element, but you passed 
+e.type.defaultProps;for
+arguments.length-2;if
+typeof:ht,type:e.type,key:l,ref:u,props:r,
+threadCount:0,Provider:null,Consumer:null,
+typeof:Lf,type:e,compare:n
+yr.transition;yr.transition
+;Of.useDeferredValue
+;Of.useImperativeHandle
+;Of.useInsertionEffect
+;Of.useSyncExternalStore
+typeof performance.now
+performance,wd.unstable
+?clearTimeout:null,zo
+?setImmediate:null;typeof navigator
+navigator.scheduling!
+navigator.scheduling.isInputPending!
+navigator.scheduling.isInputPending.bind
+navigator.scheduling
+typeof MessageChannel
+new MessageChannel,jl
+kr.port2,kr.port1.onmessage
+UserBlockingPriority
+forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported
+getCurrentPriorityLevel
+getFirstCallbackNode
+case 1:case 2:case 3:case 4:case 5:break;default:e
+1073741823;break;case 4:l
+,callback:n,priorityLevel:e,startTime:t,expirationTime:l,sortIndex:-1
+renderSubtreeIntoContainer:
+Yc,unmountComponentAtNode:
+error-decoder.html?invariant
+Minified React error 
+ for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+this.acceptsBooleans
+4,this.attributeName
+r,this.attributeNamespace
+l,this.mustUseProperty
+u,this.removeEmptyString
+null?e.removeAttribute
+:l.mustUseProperty?e
+l.attributeNamespace,t
+null?e.removeAttribute
+t,r?e.setAttributeNS
+Error.prepareStackTrace;Error.prepareStackTrace
+,Object.defineProperty
+!1,Error.prepareStackTrace
+;case 1:case 0:case 17:case 2:case 14:case 15:if
+Object.getOwnPropertyDescriptor
+e.constructor.prototype,n
+,Object.defineProperty
+enumerable:t.enumerable
+defaultChecked:void 0,defaultValue:void 0,value:void 0,checked:t!
+wrapperState.initialChecked
+null?n.checked:n.defaultChecked;t
+initialChecked:r,initialValue:t,controlled:n.type
+wrapperState.initialValue,t
+wrapperState.initialChecked,t!
+wrapperState.initialValue:e.defaultValue!
+n.dangerouslySetInnerHTML!
+value:void 0,defaultValue:void 0,children:
+wrapperState.initialValue
+wrapperState.initialValue
+n.dangerouslySetInnerHTML!
+n.dangerouslySetInnerHTML!
+typeof n.dangerouslySetInnerHTML!
+in n.dangerouslySetInnerHTML
+window,e.correspondingUseElement
+e.correspondingUseElement
+e.stateNode,e.type,n
+onDoubleClickCapture
+!r;break e;default:e
+Array.prototype.slice.call
+typeof Ve.onCommitFiberRoot
+Ve.onCommitFiberRoot
+suspendedLanes:t,pingedLanes:r,expirationTimes:l,pendingLanes:u
+1073741824?1073741824:0
+n,e.mutableReadLanes
+blockedOn:n,domEventName:t,eventSystemFlags:r,nativeEvent:u,targetContainers:
+e.targetContainers,l!
+t.stateNode.current.memoizedState.isDehydrated
+e.targetContainers;0
+e.domEventName,e.eventSystemFlags,n
+r,t.target.dispatchEvent
+lt.transition;lt.transition
+lt.transition;lt.transition
+n.stateNode.current.memoizedState.isDehydrated
+3?n.stateNode.containerInfo:null;e
+in un?un.value:un.textContent,u
+i,this.currentTarget
+?Mr:Xo,this.isPropagationStopped
+this.defaultPrevented
+t.preventDefault?t.preventDefault
+,this.isDefaultPrevented
+t.stopPropagation?t.stopPropagation
+:typeof t.cancelBubble!
+,this.isPropagationStopped
+e.nodeName.toLowerCase
+t.textContent.length,e
+t.nextSibling;break e
+:e.compareDocumentPosition?!!
+e.compareDocumentPosition
+;n instanceof e.HTMLIFrameElement;
+typeof n.contentWindow.location.href
+n.contentWindow;else break;n
+e.nodeName.toLowerCase
+t.ownerDocument.documentElement,t
+window,e.getSelection
+t.textContent.length,u
+element:e,left:e.scrollLeft,top:e.scrollTop
+,e.element.scrollLeft
+e.left,e.element.scrollTop
+t?t.document:t.nodeType
+9?t:t.ownerDocument;Ku
+start:r.selectionStart,end:r.selectionEnd
+r.ownerDocument.defaultView
+anchorNode:r.anchorNode,anchorOffset:r.anchorOffset,focusNode:r.focusNode,focusOffset:r.focusOffset
+l.isPropagationStopped
+l.isPropagationStopped
+9?e:e.ownerDocument;n
+void 0?e.addEventListener
+capture:!0,passive:l
+void 0?e.addEventListener
+r.stateNode.containerInfo;if
+i.stateNode.containerInfo,a
+Mp;break;case Ps:case zs:case Ls:k
+h.parentWindow:window,k
+h.nodeName.toLowerCase
+?un.value:un.textContent,Yn
+instance:e,listener:n,currentTarget:t
+typeof n.dangerouslySetInnerHTML
+n.dangerouslySetInnerHTML!
+n.dangerouslySetInnerHTML.
+e.previousSibling;for
+n.alternate,n.child!
+e.type.contextTypes;if
+reactInternalMemoizedUnmaskedChildContext
+reactInternalMemoizedUnmaskedChildContext
+reactInternalMemoizedMaskedChildContext
+e.childContextTypes,e!
+n.childContextTypes,typeof r.getChildContext!
+reactInternalMemoizedMergedChildContext
+reactInternalMemoizedMergedChildContext
+n.nodeName.toLowerCase
+:null,e.memoizedState
+dehydrated:n,treeContext:t,retryLane:1073741824
+e.type,e.memoizedProps
+null?e.dehydrated:null,!e
+e.stateNode.nextSibling
+Object.prototype.toString.call
+f,c,m.props.children,w,m.key
+m.type,m.key,m.props,null,f.mode,w
+c.stateNode.containerInfo!
+c.stateNode.implementation!
+c.type,c.key,c.props,null,f.mode,m
+m.props.children,f.mode,w,m.key
+m.type,m.key,m.props,null,f.mode,w
+c.stateNode.containerInfo
+c.stateNode.implementation
+context:e,memoizedValue:n,next:null
+lanes:0,firstContext:e
+baseState:e.memoizedState,firstBaseUpdate:null,lastBaseUpdate:null,shared:
+pending:null,interleaved:null,lanes:0
+e.updateQueue,n.updateQueue
+baseState:e.baseState,firstBaseUpdate:e.firstBaseUpdate,lastBaseUpdate:e.lastBaseUpdate,shared:e.shared,effects:e.effects
+eventTime:e,lane:n,tag:0,payload:null,callback:null,next:null
+updateQueue:t,alternate:r
+t.firstBaseUpdate,t!
+eventTime:t.eventTime,lane:t.lane,tag:t.tag,payload:t.payload,callback:t.callback,next:null
+baseState:r.baseState,firstBaseUpdate:l,lastBaseUpdate:u,shared:r.shared,effects:r.effects
+null?t.firstBaseUpdate
+firstBaseUpdate:u,lastBaseUpdate:i
+null?y.firstBaseUpdate
+eventTime:k,lane:0,tag:o.tag,payload:o.payload,callback:o.callback,next:null
+E;break e;case 3:E.flags
+eventTime:k,lane:h,tag:o.tag,payload:o.payload,callback:o.callback,next:null
+null,l.lastBaseUpdate
+l.shared.interleaved,n!
+n.memoizedProps.revealOrder!
+workInProgressVersionPrimary
+memoizedState:null,baseState:null,baseQueue:null,queue:null,next:null
+null?K.memoizedState
+null?e.memoizedState:null
+null?K.memoizedState:x.next;if
+memoizedState:J.memoizedState,baseState:J.baseState,baseQueue:J.baseQueue,queue:J.queue,next:null
+null?K.memoizedState
+;t.lastRenderedReducer
+lane:0,action:d.action,hasEagerState:d.hasEagerState,eagerState:d.eagerState,next:null
+d.hasEagerState?d.eagerState:e
+lane:y,action:d.action,hasEagerState:d.hasEagerState,eagerState:d.eagerState,next:null
+a,t.lastRenderedState
+n.memoizedState,t.dispatch
+;t.lastRenderedReducer
+dispatch:r,pending:l
+,t.lastRenderedState
+getSnapshot:n,value:t
+lastEffect:null,stores:null
+pending:null,interleaved:null,lanes:0,dispatch:null,lastRenderedReducer:ur,lastRenderedState:e
+tag:e,create:n,destroy:t,deps:r,next:null
+lastEffect:null,stores:null
+yu.transition;yu.transition
+lane:r,action:t,hasEagerState:!1,eagerState:null,next:null
+lane:r,action:t,hasEagerState:!1,eagerState:null,next:null
+n.lastRenderedReducer,u!
+n.lastRenderedState,o
+e.updateQueue.baseState
+e.stateNode,typeof e.shouldComponentUpdate
+?e.shouldComponentUpdate
+n.prototype.isPureReactComponent?!jt
+void 0?n.state:null,n.updater
+reactInternalMemoizedUnmaskedChildContext
+reactInternalMemoizedMaskedChildContext
+n.state,typeof n.componentWillReceiveProps
+n.componentWillReceiveProps
+componentWillReceiveProps
+componentWillReceiveProps
+Ll.enqueueReplaceState
+e.memoizedState,l.refs
+n.contextType;typeof u
+?Mn:ie.current,l.context
+n.getDerivedStateFromProps,typeof u
+,typeof n.getDerivedStateFromProps
+typeof l.getSnapshotBeforeUpdate
+typeof l.componentWillMount!
+l.state,typeof l.componentWillMount
+l.componentWillMount
+Ll.enqueueReplaceState
+,typeof l.componentDidMount
+Error generating stack: 
+value:e,source:n,stack:l,digest:null
+value:e,source:null,stack:t!
+null?t:null,digest:n!
+e.type.getDerivedStateFromError;if
+typeof u.componentDidCatch
+n.stack;this.componentDidCatch
+e.updateQueue,n.flags
+t.type,null,r,n,n.mode,l
+null?e.memoizedState:null;if
+baseLanes:0,cachePool:null,transitions:null
+1073741824,n.memoizedState
+baseLanes:e,cachePool:null,transitions:null
+e,null;n.memoizedState
+baseLanes:0,cachePool:null,transitions:null
+null?u.baseLanes:t,A
+e.updateQueue,n.flags
+stateNode:i,memoizedProps:o
+t.contextType;typeof d
+t.getDerivedStateFromProps,g
+typeof i.getSnapshotBeforeUpdate
+componentWillReceiveProps!
+typeof i.componentWillReceiveProps!
+n.memoizedState;i.state
+typeof i.componentWillMount!
+typeof i.componentWillMount
+i.componentWillMount
+,typeof i.componentDidMount
+typeof i.componentDidMount
+typeof i.componentDidMount
+t.contextType,typeof a
+t.getDerivedStateFromProps;
+typeof i.getSnapshotBeforeUpdate
+componentWillReceiveProps!
+typeof i.componentWillReceiveProps!
+n.memoizedState,i.state
+componentWillUpdate!
+typeof i.componentWillUpdate!
+typeof i.componentWillUpdate
+i.componentWillUpdate
+,typeof i.componentDidUpdate
+,typeof i.getSnapshotBeforeUpdate
+typeof i.componentDidUpdate!
+,typeof i.getSnapshotBeforeUpdate!
+typeof i.componentDidUpdate!
+,typeof i.getSnapshotBeforeUpdate!
+n.stateNode,m0.current
+typeof t.getDerivedStateFromError!
+e.stateNode;n.pendingContext?sa
+e,n.pendingContext,n.pendingContext!
+baseLanes:e,cachePool:null,transitions:null
+u,n.child.memoizedState
+,children:r.children
+n.child,r.childLanes
+e.child.memoizedState,i
+baseLanes:i.baseLanes
+t,cachePool:null,transitions:i.transitions
+,children:r.children
+n,n.pendingProps.children
+,children:r.children
+,n.child.memoizedState
+l.nextSibling.dataset,r
+8;break;case 64:case 128:case 256:case 512:case 1024:case 2048:case 4096:case 8192:case 16384:case 32768:case 65536:case 131072:case 262144:case 524288:case 1048576:case 2097152:case 4194304:case 8388608:case 16777216:case 33554432:case 67108864:l
+32;break;case 536870912:l
+268435456;break;default:l
+null?e.memoizedState
+isBackwards:n,rendering:null,renderingStartTime:0,last:r,tail:t,tailMode:l
+null,u.renderingStartTime
+n,!1,null,null,void 0
+;break;default:n.memoizedState
+n,n.stateNode.containerInfo
+n.memoizedProps.value;A
+n.pendingProps;switch
+r.pendingContext,r.pendingContext
+e.memoizedState.isDehydrated
+n.memoizedProps;switch
+wasMultiple:!!u.multiple
+u.suppressHydrationWarning!
+u.suppressHydrationWarning!
+:break;default:typeof u.onClick
+9?l:l.ownerDocument,e
+e,r.multiple?i.multiple
+wasMultiple:!!r.multiple
+dangerouslySetInnerHTML
+suppressContentEditableWarning
+suppressHydrationWarning
+e,!!r.multiple,r.defaultValue,!0
+;break;default:typeof l.onClick
+!!r.autoFocus;break e;case
+!0;break e;default:r
+e,n,e.memoizedProps,r
+;break;case 5:e.memoizedProps.suppressHydrationWarning!
+e.memoizedState.dehydrated!
+null?u.dehydrated:null,!u
+n.stateNode.containerInfo
+null,u.memoizedState
+i.childLanes,u.lanes
+i.child,u.subtreeFlags
+null,u.memoizedProps
+i.memoizedProps,u.memoizedState
+i.memoizedState,u.updateQueue
+i.updateQueue,u.type
+i.dependencies,u.dependencies
+lanes:e.lanes,firstContext:e.firstContext
+-u.renderingStartTime
+n.sibling,u.renderingStartTime
+start:e.selectionStart,end:e.selectionEnd
+anchorOffset:l,focusNode:u
+t.nodeType,u.nodeType
+focusedElem:e,selectionRange:t
+case 0:case 11:case 15:break;case 1:if
+memoizedProps:N,memoizedState:I
+f.getSnapshotBeforeUpdate
+reactInternalSnapshotBeforeUpdate
+n.stateNode.containerInfo;m.nodeType
+;break;case 5:case 6:case 4:case 17:break;default:throw Error
+null?r.lastEffect:null,r!
+null?n.lastEffect:null,n!
+null,e.memoizedProps
+null,e.memoizedState
+e.stateNode,n?t.nodeType
+8?t.parentNode.insertBefore
+t.parentNode,n.insertBefore
+reactRootContainer,t!
+e.stateNode,n?t.insertBefore
+typeof Ve.onCommitFiberUnmount
+Ve.onCommitFiberUnmount
+t.stateNode,e.nodeType
+8?e.parentNode.removeChild
+t.stateNode,e.nodeType
+t.stateNode.containerInfo,Re
+l;break;case 0:case 11:case 14:case 15:if
+t.stateNode,typeof r.componentWillUnmount
+t.memoizedProps,r.state
+t.memoizedState,r.componentWillUnmount
+;break;case 22:t.mode
+o.stateNode.containerInfo,Re
+o.stateNode.containerInfo,Re
+case 0:case 11:case 14:case 15:if
+null?t.memoizedProps:u,o
+dangerouslySetInnerHTML
+wrapperState.wasMultiple;l.
+wrapperState.wasMultiple
+l,!!u.multiple,u.defaultValue,!0
+l,!!u.multiple,u.multiple?
+t.memoizedState.isDehydrated
+null,l.stateNode.isHidden
+l.alternate.memoizedState!
+e.stateNode.isHidden
+case 0:case 11:case 14:case 15:Qt
+typeof E.componentWillUnmount
+n.memoizedProps,E.state
+n.memoizedState,E.componentWillUnmount
+l.style,typeof u.setProperty
+g.memoizedProps.style,i
+?a.display:null,o.style.display
+g.stateNode.nodeValue
+;break;case 21:break;default:Le
+r.stateNode.containerInfo,o
+;break;default:throw Error
+case 0:case 11:case 15:ue
+n.type?t.memoizedProps:Te
+n.type,t.memoizedProps
+;r.componentDidUpdate
+l,t.memoizedState,r.
+reactInternalSnapshotBeforeUpdate
+n.child.stateNode;break;case 1:t
+n.memoizedProps;switch
+break;case 6:break;case 4:break;case 12:break;case 13:if
+break;case 19:case 17:case 21:case 22:case 23:case 25:break;default:throw Error
+typeof r.componentDidMount
+null,e.callbackPriority
+-r,e.callbackPriority!
+el;break;case 536870912:t
+e.current.alternate,
+case 0:case 1:throw Error
+;break;default:throw Error
+n.child,n.subtreeFlags
+e.current.alternate,e.finishedLanes
+null,e.finishedLanes
+r.type.childContextTypes,r!
+;break;case 22:case 23:no
+h.updateQueue,y.memoizedState
+h.memoizedState,y.lanes
+null,y.memoizedState
+typeof c.getDerivedStateFromError
+typeof m.componentDidCatch
+32768,e.subtreeFlags
+null,e.finishedLanes
+null,e.callbackPriority
+e.onRecoverableError,t
+componentStack:l.stack,digest:l.digest
+case 0:case 11:case 15:Qt
+case 0:case 11:case 15:Qt
+case 0:case 11:case 15:Tl
+typeof Ve.onPostCommitFiberRoot
+Ve.onPostCommitFiberRoot
+typeof n.type.getDerivedStateFromError
+typeof r.componentDidCatch
+stateNode:r,memoizedState:l
+e.stateNode;break;default:throw Error
+null,this.pendingProps
+null,this.childLanes
+e.tag,n,e.key,e.mode
+e.elementType,t.type
+e.stateNode,t.alternate
+14680064,t.childLanes
+e.childLanes,t.lanes
+e.child,t.memoizedProps
+e.memoizedProps,t.memoizedState
+e.memoizedState,t.updateQueue
+e.dependencies,t.dependencies
+lanes:n.lanes,firstContext:n.firstContext
+10;break e;case Ba:i
+11;break e;case Ci:i
+14;break e;case nn:i
+containerInfo:e.containerInfo,pendingChildren:null,implementation:e.implementation
+n,this.containerInfo
+this.pendingChildren
+null,this.timeoutHandle
+-1,this.callbackNode
+null,this.callbackPriority
+,this.expirationTimes
+,this.entangledLanes
+this.mutableReadLanes
+0,this.entanglements
+,this.identifierPrefix
+r,this.onRecoverableError
+l,this.mutableSourceEagerHydrationData
+element:r,isDehydrated:t,cache:null,transitions:null,pendingSuspenseBoundaries:null
+r,children:e,containerInfo:n,implementation:t
+n.stateNode.context;break e;case 1:if
+reactInternalMemoizedMergedChildContext;break e
+e.retryLane;e.retryLane
+ react-mount-point-unstable 
+e,0,!1,null,null,!1,!1,
+reactRootContainer;if
+d,Do,Oo,ne,gi,xe,Nr,Wn,Kn,ki,Nu,Va,Ba,Ei,Pu,zu,Ci,nn,Qa,Uo,Y,ru,lu
+!1,Tt,zr,Ga,Ut,Yd,Xd,Uu
+null,Gd,us,Wo,jd,bd,Z,ep,Ni,is,el,np,os,kl
+null,Gt,Jt,rn,sp,lt,tl
+null,mt,Ri,sr,mp,au,su,
+t,El,Zo,vp,hp,yp,cu,gp,wp,Sp,kp,Ep,Go,Cp,
+p,Np,zp,Lp,Tp,Jo,Rp,Mp,Fp,Ip,Dp,Op,Up,Fi,
+!1,Mt,Ft,Wr,De,Jp,Xn
+!1,Zn,fu,Ns,Ps,zs,Ls,Ts,Rs,ra,Dt,Yu,Xu,It,Ot,qp,Ir,xp,jp,Zu
+null,qu,bp,oa,e0,vt,He,nr,Ge,xu,t0,r0,ju,Jn
+!1,fr,Be,tr,rr,W,hu,Yr,yu,In
+0,vl,c0,f0,d0,Ll,p0,m0,de
+0,Mc,Oc,U0,zt,A0,Qn,Uc,Ac
+,n.identifierPrefix!
+,n.onRecoverableError!
+n.onRecoverableError
+e,1,!1,null,null,t,!1,r,l
+null?null:e.stateNode,e
+,t.identifierPrefix!
+,t.onRecoverableError!
+t.onRecoverableError
+null?t:null,l,!1,u,i
+,n.mutableSourceEagerHydrationData
+null?n.mutableSourceEagerHydrationData
+:n.mutableSourceEagerHydrationData.push
+18.3.1-next-f1338f8080-20240426
+typeof window.document
+typeof window.document.createElement
+Object.prototype.hasOwnProperty,
+children dangerouslySetInnerHTML defaultValue defaultChecked innerHTML suppressContentEditableWarning suppressHydrationWarning style
+e,2,!1,e.toLowerCase
+externalResourcesRequired
+allowFullScreen async autoFocus autoPlay controls default defer disabled disablePictureInPicture disableRemotePlayback formNoValidate hidden loop noModule noValidate open playsInline readOnly required reversed scoped seamless itemScope
+e,3,!1,e.toLowerCase
+e,5,!1,e.toLowerCase
+accent-height alignment-baseline arabic-form baseline-shift cap-height clip-path clip-rule color-interpolation color-interpolation-filters color-profile color-rendering dominant-baseline enable-background fill-opacity fill-rule flood-color flood-opacity font-family font-size font-size-adjust font-stretch font-style font-variant font-weight glyph-name glyph-orientation-horizontal glyph-orientation-vertical horiz-adv-x horiz-origin-x image-rendering letter-spacing lighting-color marker-end marker-mid marker-start overline-position overline-thickness paint-order panose-1 pointer-events rendering-intent shape-rendering stop-color stop-opacity strikethrough-position strikethrough-thickness stroke-dasharray stroke-dashoffset stroke-linecap stroke-linejoin stroke-miterlimit stroke-opacity stroke-width text-anchor text-decoration text-rendering underline-position underline-thickness unicode-bidi unicode-range units-per-em v-alphabetic v-hanging v-ideographic v-mathematical vector-effect vert-adv-y vert-origin-x vert-origin-y word-spacing writing-mode xmlns:xlink x-height
+xlink:actuate xlink:arcrole xlink:role xlink:show xlink:title xlink:type
+e,1,!1,e.toLowerCase
+e,1,!1,e.toLowerCase
+MSApp.execUnsafeLocalFunction
+document.createElement
+zr.firstChild;e.firstChild;
+animationIterationCount:!0,aspectRatio:!0,borderImageOutset:!0,borderImageSlice:!0,borderImageWidth:!0,boxFlex:!0,boxFlexGroup:!0,boxOrdinalGroup:!0,columnCount:!0,columns:!0,flex:!0,flexGrow:!0,flexPositive:!0,flexShrink:!0,flexNegative:!0,flexOrder:!0,gridArea:!0,gridRow:!0,gridRowEnd:!0,gridRowSpan:!0,gridRowStart:!0,gridColumn:!0,gridColumnEnd:!0,gridColumnSpan:!0,gridColumnStart:!0,fontWeight:!0,lineClamp:!0,lineHeight:!0,opacity:!0,order:!0,orphans:!0,tabSize:!0,widows:!0,zIndex:!0,zoom:!0,fillOpacity:!0,floodOpacity:!0,stopOpacity:!0,strokeDasharray:!0,strokeDashoffset:!0,strokeMiterlimit:!0,strokeOpacity:!0,strokeWidth:!0
+area:!0,base:!0,br:!0,col:!0,embed:!0,hr:!0,img:!0,input:!0,keygen:!0,link:!0,meta:!0,param:!0,source:!0,track:!0,wbr:!0
+,Object.defineProperty
+,window.addEventListener
+,window.removeEventListener
+getCurrentPriorityLevel,Ni
+ImmediatePriority,is
+UserBlockingPriority,el
+Math.clz32?Math.clz32:up,rp
+mousedown mouseup touchcancel touchend touchstart auxclick dblclick pointercancel pointerdown pointerup dragend dragstart drop compositionend compositionstart keydown keypress keyup input textInput copy cut paste click change contextmenu reset submit
+xe.ReactCurrentBatchConfig;mt
+,defaultPrevented:0,isTrusted:0
+void 0?e.fromElement
+e.srcElement?e.toElement:e.fromElement:e.relatedTarget
+animationName:0,elapsedTime:0,pseudoElement:0
+in e?e.clipboardData:window.clipboardData
+:String.fromCharCode
+pointerId:0,width:0,height:0,pressure:0,tangentialPressure:0,tiltX:0,tiltY:0,twist:0,pointerType:0,isPrimary:0
+touches:0,targetTouches:0,changedTouches:0,altKey:0,metaKey:0,ctrlKey:0,shiftKey:0,getModifierState:Mi
+propertyName:0,elapsedTime:0,pseudoElement:0
+,deltaZ:0,deltaMode:0
+document.documentMode
+color:!0,date:!0,datetime:!0,
+:!0,email:!0,month:!0,number:!0,password:!0,range:!0,search:!0,tel:!0,text:!0,time:!0,url:!0,week:!0
+document.createElement
+!document.documentMode
+document.documentMode
+document.documentMode;Zn
+,animationiteration:Fr
+document.createElement
+delete Zn.animationend.animation,delete Zn.animationiteration.animation,delete Zn.animationstart.animation
+delete Zn.transitionend.transition
+abort auxClick cancel canPlay canPlayThrough click close contextMenu copy cut drag dragEnd dragEnter dragExit dragLeave dragOver dragStart drop durationChange emptied encrypted ended error gotPointerCapture input invalid keyDown keyPress keyUp load loadedData loadedMetadata loadStart lostPointerCapture mouseDown mouseMove mouseOut mouseOver mouseUp paste pause play playing pointerCancel pointerDown pointerMove pointerOut pointerOver pointerUp progress rateChange reset resize seeked seeking stalled submit suspend timeUpdate touchCancel touchEnd touchStart volumeChange scroll toggle touchMove waiting wheel
+onAnimationIteration
+change click focusin focusout input keydown keyup selectionchange
+focusout contextmenu dragend focusin keydown keyup mousedown mouseup selectionchange
+compositionend focusout keydown keypress keyup mousedown
+compositionstart focusout keydown keypress keyup mousedown
+compositionupdate focusout keydown keypress keyup mousedown
+abort canplay canplaythrough durationchange emptied encrypted ended error loadeddata loadedmetadata loadstart pause play playing progress ratechange resize seeked seeking stalled suspend timeupdate volumechange waiting
+cancel close invalid load scroll toggle
+?setTimeout:void 0,bp
+?clearTimeout:void 0,oa
+typeof queueMicrotask
+?queueMicrotask:typeof oa
+xe.ReactCurrentBatchConfig;ct
+xe.ReactCurrentDispatcher,yu
+xe.ReactCurrentBatchConfig;vl
+readContext:Ne,useCallback:re,useContext:re,useEffect:re,useImperativeHandle:re,useInsertionEffect:re,useLayoutEffect:re,useMemo:re,useReducer:re,useRef:re,useState:re,useDebugValue:re,useDeferredValue:re,useTransition:re,useMutableSource:re,useSyncExternalStore:re,useId:re,unstable
+pending:null,interleaved:null,lanes:0,dispatch:null,lastRenderedReducer:e,lastRenderedState:n
+value:t,getSnapshot:n
+j.identifierPrefix;if
+,useMutableSource:Ws,useSyncExternalStore:Ks,useId:lc,unstable
+null?n.memoizedState
+,useMutableSource:Ws,useSyncExternalStore:Ks,useId:lc,unstable
+xe.ReactCurrentOwner;oi
+dehydrated:null,treeContext:null,retryLane:0
+;break;default:typeof l.onClick!
+dangerouslySetInnerHTML
+suppressContentEditableWarning
+suppressHydrationWarning
+:void 0,r.hasOwnProperty
+dangerouslySetInnerHTML
+suppressContentEditableWarning
+suppressHydrationWarning
+xe.ReactCurrentDispatcher,xi
+xe.ReactCurrentOwner,
+xe.ReactCurrentBatchConfig,et
+void 0?l.state:null,Bi
+i.element,u.isDehydrated
+element:r,isDehydrated:!1,cache:i.cache,pendingSuspenseBoundaries:i.pendingSuspenseBoundaries,transitions:i.transitions
+,n.updateQueue.baseState
+n.stateNode.containerInfo.firstChild
+null?e.memoizedProps:null,i
+n,n.stateNode.containerInfo
+e,n,n.pendingProps,t
+e,n,n.pendingProps.children,t
+e,n,n.pendingProps.children,t
+n.type?null:u.child;else if
+n.pendingProps.children,ut
+e,n,n.type,n.pendingProps,t
+;Il.prototype.render
+;Il.prototype.unmount
+io.prototype.unmount
+;Il.prototype.unstable
+blockedOn:null,target:e,priority:n
+n.current.memoizedState.isDehydrated
+usingClientEntryPoint:!1,Events:
+findFiberByHostInstance:Pn,bundleType:0,version:
+,rendererPackageName:
+null?null:e.stateNode
+,findFiberByHostInstance:zt.findFiberByHostInstance
+D0,findHostInstancesForRefresh:null,scheduleRefresh:null,scheduleRoot:null,setRefreshHandler:null,getCurrentFiber:null,reconcilerVersion:
+18.3.1-next-f1338f8080-20240426
+dr.createRoot,H0.hydrateRoot
+Object.prototype.hasOwnProperty,Q0
+FIRED.ReactCurrentOwner,W0
+typeof:V0,type:e,key:u,ref:i,props:l,
+,price:18.5,rating:4.8,genre:
+To Kill a Mockingbird
+,price:14.2,rating:4.7,genre:
+,price:22,rating:4.9,genre:
+,price:12.99,rating:4.6,genre:
+A Brief History of Time
+,price:16.75,rating:4.5,genre:
+,price:19.99,rating:4.4,genre:
+,price:13.5,rating:4.8,genre:
+,price:24,rating:4.9,genre:
+DSA: Array, Stack, Queue, Hash, Tree, Sorting
+ search logic in Node 
+ you create the brain that knows what a Book is and how to find it fast.
+ waiter taking orders
+ translator to MongoDB
+ catalog grid, filters 
+. Looks like real bookstore.
+ remember after reload
+Deployment on Vercel 
+ UI. You click Buy, it actually works. Deploy 
+document.documentElement.scrollHeight-window.innerHeight;n
+document.getElementById
+vo.getBoundingClientRect
+window.removeEventListener
+C.author.toLowerCase
+Removed from wishlist
+Order placed in Queue
+--safe-area-inset-top
+text-zinc-800 antialiased overflow-x-clip
+fonts.googleapis.com
+9..144,600;9..144,700
+, system-ui, sans-serif; 
+        ::-webkit-scrollbar 
+ width: 6px; height: 6px; 
+        ::-webkit-scrollbar-thumb 
+E6DFD8; border-radius: 10px; 
+fixed left-0 right-0 h-
+--safe-area-inset-top
+h-full bg-gradient-to-r from-violet-500 to-fuchsia-500 transition-all
+sticky z-50 backdrop-blur-xl border-b border-zinc-200
+--safe-area-inset-top
+ mx-auto px-4 md:px-6 h-
+ flex items-center justify-between
+flex items-center gap-3
+w-9 h-9 rounded-xl bg-zinc-900 text-white grid place-items-center text-
+display font-bold leading-none
+ text-zinc-500 font-sans font-medium -mt-0.5
+hidden md:inline-flex ml-3 px-2.5 py-1 rounded-full bg-violet-100 text-violet-700 text-
+ font-bold tracking-widest uppercase
+flex items-center gap-1 md:gap-2 overflow-x-auto no-scrollbar
+,document.getElementById
+shrink-0 px-3 py-2 rounded-full text-
+ font-semibold flex items-center gap-1.5 border transition-all 
+bg-zinc-900 text-white border-zinc-900 shadow
+bg-white border-zinc-200 hover:border-zinc-300 text-zinc-600
+ mx-auto px-4 md:px-6 pt-8 pb-4
+ bg-white border border-zinc-200 p-6 md:p-10 shadow-
+ flex flex-col md:flex-row gap-8 items-start
+inline-flex items-center gap-2 px-3 py-1 rounded-full bg-amber-100 border border-amber-200 text-
+ font-bold uppercase tracking-widest text-amber-800
+ tracking-tight mt-4
+ text-zinc-600 mt-4 max-w-
+re building LEGO. We split a real Book Store into 4 easy layers, 3 user journeys, and a working mini-shop you can play with 
+ no backend needed. Every concept shows where it lives in code.
+flex flex-wrap gap-2 mt-5
+px-3 py-1.5 rounded-full bg-zinc-900 text-white text-
+uDCE6 72 days total roadmap
+px-3 py-1.5 rounded-full bg-zinc-100 border text-
+uDDE0 DSA made visual
+px-3 py-1.5 rounded-full bg-zinc-100 border text-
+ Live prototype below
+ shrink-0 grid grid-cols-2 gap-3
+8 books, cart, wishlist
+rounded-2xl border p-4
+ font-bold uppercase tracking-widest opacity-60
+ font-semibold mt-1 leading-tight
+col-span-2 rounded-2xl bg-zinc-900 text-white p-4 flex items-center justify-between
+w-10 h-10 rounded-full bg-white
+10 grid place-items-center
+ mx-auto px-4 md:px-6 py-8
+flex items-end justify-between gap-4 flex-wrap
+ font-bold tracking-
+ uppercase text-violet-600
+Whole Application Roadmap
+ 4 simple layers instead of 8 heavy phases. Each layer tells you what to learn and what you
+ll build in the Book Store.
+px-3 py-2 rounded-full bg-white border text-
+uDD52 Total: 72 days 
+ bg-white border shadow-sm p-3 md:p-4 overflow-x-auto
+flex items-center gap-2 min-w-
+flex-1 text-left rounded-2xl border p-4 transition-all 
+ring-2 ring-zinc-900 shadow
+flex items-center gap-2
+w-8 h-8 rounded-full bg-white grid place-items-center border text-
+ font-bold tracking-widest uppercase opacity-70
+ px-2 py-0.5 rounded-full bg-white border font-bold
+font-bold mt-2 text-
+ opacity-70 mt-1 line-clamp-1
+ bg-zinc-200 shrink-0
+grid md:grid-cols-2 gap-4 mt-4
+ border bg-white p-5 shadow-sm transition-all 
+hidden md:block opacity-60
+flex items-center gap-2
+w-9 h-9 rounded-xl grid place-items-center border bg-white
+ml-auto w-2 h-2 rounded-full
+ font-bold uppercase tracking-widest text-zinc-500
+mt-2 flex flex-wrap gap-1.5
+,children:p.concepts.map
+px-2.5 py-1 rounded-full bg-zinc-50 border text-
+mt-4 rounded-xl p-3 border
+ font-bold uppercase tracking-widest
+uDCE6 What you will build in Book Store
+ bg-zinc-900 text-white p-6 md:p-8
+flex items-center gap-3
+ How teams work without stepping on each other
+ px-2 py-1 rounded-full bg-white
+10 border border-white
+mt-6 flex flex-col md:flex-row items-center gap-3 md:gap-0 justify-between
+rounded-xl bg-white text-zinc-900 px-5 py-3 border font-semibold text-
+ font-normal text-zinc-500
+hidden md:block flex-1 h-
+ bg-gradient-to-r from-white
+absolute right-0 -top-1 w-2 h-2 rotate-45 border-t border-r border-white
+rounded-xl bg-violet-500 px-5 py-3 border border-violet-300 font-semibold text-
+ font-normal text-violet-100
+hidden md:block flex-1 h-
+absolute right-0 -top-1 w-2 h-2 rotate-45 border-t border-r border-white
+grid grid-cols-1 gap-2
+10 border border-white
+ flex items-center gap-2
+Think: main is printed book, develop is draft, feature branches are sticky notes you test separately, then merge.
+ mx-auto px-4 md:px-6 py-8
+ bg-white border shadow-sm p-6 md:p-8
+flex flex-wrap items-start justify-between gap-4
+ font-bold tracking-
+ uppercase text-fuchsia-600
+How a user moves. Click tabs to switch journeys. Hover steps to highlight the path 
+ like Google Maps for your app.
+flex gap-2 p-1 rounded-full bg-zinc-100 border
+px-4 py-2 rounded-full text-
+ font-semibold transition 
+bg-zinc-900 text-white shadow
+text-zinc-600 hover:bg-white
+mt-8 overflow-x-auto
+ flex items-stretch gap-2
+flex items-center gap-2
+ border bg-white p-4 w-
+ shadow-sm transition-all 
+ring-2 ring-violet-400 -translate-y-0.5
+w-9 h-9 rounded-xl bg-zinc-50 border grid place-items-center text-
+mt-2 inline-flex px-2 py-1 rounded-full bg-violet-50 border border-violet-200 text-
+ leading-tight text-violet-700
+shrink-0 w-10 flex flex-col items-center
+ md:w-6 bg-zinc-300 hidden md:block
+mt-6 grid md:grid-cols-3 gap-3
+rounded-xl bg-amber-50 border border-amber-200 p-4
+ super fast dictionary
+Find book by ISBN in O
+ like finding a word in a dictionary by page number, not scanning all pages.
+rounded-xl bg-emerald-50 border border-emerald-200 p-4
+Last removed cart item sits on top. Pop to undo 
+rounded-xl bg-sky-50 border border-sky-200 p-4
+First order in, first out. Checkout adds to line, admin processes front.
+ mx-auto px-4 md:px-6 py-8
+flex items-end justify-between flex-wrap gap-3
+ font-bold tracking-
+ uppercase text-emerald-600
+How the app is built 
+ 3 layers like a burger. Client on top, Server middle, Data bottom. Request goes down, response comes up.
+mt-6 grid lg:grid-cols-
+ bg-white border shadow-sm p-5 md:p-6
+ font-bold uppercase tracking-widest
+mt-4 flex flex-col gap-3
+Next.js Route Handlers 
+rounded-2xl border p-4 flex gap-3 items-start
+w-10 h-10 rounded-xl bg-white border grid place-items-center
+mt-1 flex flex-wrap gap-1.5
+,children:p.items.map
+px-2 py-1 rounded-full bg-white border text-
+flex justify-center my-1 text-zinc-400
+rounded-2xl bg-zinc-900 text-white p-4 flex items-center justify-between
+flex items-center gap-2
+w-8 h-8 rounded-full bg-white
+10 grid place-items-center
+ bg-white border shadow-sm p-5 md:p-6
+ font-bold uppercase tracking-widest
+ What happens when you click Add to Cart
+mt-4 flex flex-col gap-2
+User Action: Click Add
+Redux Action: dispatch
+API Call: Axios POST 
+Response: Updated cart
+UI re-render: Virtual DOM
+flex items-center gap-2
+w-6 h-6 rounded-full bg-zinc-900 text-white grid place-items-center text-
+flex-1 rounded-full border bg-zinc-50 px-3 py-2 text-
+ font-bold uppercase tracking-widest text-zinc-500
+ PDF concept mapping
+mt-2 grid grid-cols-2 gap-2 text-
+Tier 1 React rendering
+Tier 2 Order Service
+rounded-xl border bg-zinc-50 p-2
+ mx-auto px-4 md:px-6 py-8
+ bg-white border shadow-sm p-6 md:p-8
+flex flex-wrap items-start justify-between gap-4
+ font-bold tracking-
+ uppercase text-amber-600
+px-3 py-2 rounded-full bg-amber-100 border border-amber-200 text-
+Beginner language, no jargon
+mt-6 grid lg:grid-cols-2 gap-6
+font-bold flex items-center gap-2
+w-7 h-7 rounded-full bg-zinc-900 text-white grid place-items-center text-
+mt-4 grid grid-cols-2 gap-2
+rounded-xl border p-3 flex gap-2 items-center
+ font-semibold whitespace-pre leading-tight
+ border bg-white p-5
+font-bold flex items-center gap-2
+w-7 h-7 rounded-full bg-zinc-900 text-white grid place-items-center text-
+Details inside boxes
+ font-bold uppercase tracking-widest
+mt-2 grid grid-cols-2 gap-2
+author, price, stock
+id, userId, items Queue
+rounded-xl border p-3
+,children:p.props.map
+70 border rounded-full px-2 py-0.5
+ font-bold uppercase tracking-widest
+mt-2 flex flex-wrap items-center gap-2 text-
+rounded-xl border bg-zinc-50 px-3 py-2
+rounded-xl border bg-zinc-50 px-3 py-2
+rounded-xl border bg-zinc-50 px-3 py-2
+ font-bold uppercase tracking-widest
+mt-2 overflow-x-auto
+ border rounded-xl overflow-hidden
+bg-zinc-900 text-white
+mt-6 grid md:grid-cols-
+ border bg-zinc-50 p-4
+Sequence: Checkout Flow
+ Create Order in Queue
+flex gap-2 items-center
+w-5 h-5 rounded-full bg-white border grid place-items-center text-
+ bg-white border rounded-full px-3 py-1.5 flex-1
+ border bg-violet-50 p-4
+ Where it lives in system
+mt-3 grid grid-cols-1 gap-2 text-
+ Undo last cart remove
+ Wishlist no duplicates
+bg-white border rounded-full px-3 py-2
+ mx-auto px-4 md:px-6 py-8 pb-16
+flex items-end justify-between flex-wrap gap-3
+ font-bold tracking-
+ uppercase text-zinc-900
+ mock data. Every button shows which concept it uses.
+px-3 py-2 rounded-full bg-white border text-
+px-3 py-2 rounded-full bg-zinc-900 text-white text-
+ bg-white border shadow-
+ border-b flex items-center gap-3 px-4 md:px-6
+w-8 h-8 rounded-full bg-zinc-900 text-white grid place-items-center
+hidden md:flex items-center gap-2 ml-6 flex-1 max-w-
+Search title or author 
+w-full h-9 rounded-full border bg-zinc-50 px-4 pr-10 text-
+ outline-none focus:ring-2 focus:ring-violet-200
+absolute right-3 top-1
+ml-auto flex items-center gap-2
+h-9 px-3 rounded-full border flex items-center gap-1.5 text-
+bg-fuchsia-600 text-white border-fuchsia-600
+h-9 px-3 rounded-full bg-zinc-900 text-white flex items-center gap-1.5 text-
+md:hidden p-3 border-b bg-zinc-50
+Search title or author
+w-full h-10 rounded-full border bg-white px-4 text-
+ font-bold uppercase tracking-widest
+flex items-center gap-2 text-
+ font-bold uppercase tracking-widest
+,min:12,max:25,step:0.5,value:h,onChange:
+w-full mt-3 accent-zinc-900
+flex justify-between text-
+ font-bold uppercase tracking-widest
+mt-3 grid grid-cols-1 gap-2
+text-left px-3 py-2 rounded-full border text-
+bg-zinc-900 text-white border-zinc-900
+rounded-xl bg-white border p-3
+Tree for categories? Imagine genres as branches. Faster to find Sci-Fi books without scanning all.
+flex items-center justify-between
+ px-2.5 py-1 rounded-full bg-violet-100 border border-violet-200
+mt-4 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4
+ border bg-white overflow-hidden shadow-sm hover:shadow-md transition
+ flex items-center justify-center text-
+absolute top-3 right-3 w-8 h-8 rounded-full grid place-items-center border bg-white 
+text-fuchsia-600 border-fuchsia-200
+absolute bottom-2 left-2 px-2 py-0.5 rounded-full bg-white
+ leading-tight line-clamp-1
+mt-2 flex items-center gap-2
+ px-2 py-0.5 rounded-full bg-amber-100 border border-amber-200
+ text-zinc-500 ml-auto
+mt-3 grid grid-cols-2 gap-2
+h-9 rounded-full bg-zinc-900 text-white text-
+h-9 rounded-full bg-white border text-
+Set ensures no duplicates. Add some books!
+ bg-zinc-900 text-white p-6 md:p-8
+flex items-center gap-3
+ Feature dictionary 
+ cheat sheet for beginners
+mt-4 grid md:grid-cols-2 lg:grid-cols-3 gap-3 text-
+ keeps only matching books
+ no duplicate hearts
+ first order processed first
+ find book instantly
+10 border border-white
+px-2.5 py-1 rounded-full bg-white text-zinc-900 font-bold h-fit text-
+absolute inset-0 bg-black
+absolute right-0 top-0 h-full w-
+ bg-white shadow-2xl border-l transition-transform 
+ border-b flex items-center justify-between px-5
+w-8 h-8 rounded-full border grid place-items-center
+p-4 space-y-3 overflow-auto h-
+text-center mt-20 text-zinc-500
+ Empty state of State Machine
+rounded-xl border p-3 flex gap-3 items-center
+w-12 h-12 rounded-lg grid place-items-center text-
+flex items-center gap-1
+w-7 h-7 rounded-full border grid place-items-center
+w-6 text-center text-
+w-7 h-7 rounded-full border grid place-items-center
+ml-1 w-7 h-7 rounded-full bg-zinc-100 grid place-items-center
+absolute bottom-0 left-0 right-0 border-t bg-white p-4 space-y-3
+flex justify-between text-
+grid grid-cols-2 gap-2
+onClick:ff,className:
+h-10 rounded-full border bg-white text-
+onClick:df,className:
+h-10 rounded-full bg-zinc-900 text-white text-
+ grid place-items-center p-4
+absolute inset-0 bg-black
+relative w-full max-w-
+ bg-white border shadow-2xl overflow-hidden
+ grid place-items-center text-
+absolute top-3 right-3 w-8 h-8 rounded-full bg-white border grid place-items-center
+ leading-relaxed text-zinc-700
+This modal is a Portal 
+ floats above page. Uses class Book 
+ id, isbn, title, author, price, stock, genre 
+ blueprint for every book.
+flex-1 h-10 rounded-full bg-zinc-900 text-white text-
+h-10 px-4 rounded-full border bg-white text-
+ grid place-items-center p-4
+absolute inset-0 bg-black
+relative w-full max-w-
+ bg-white border shadow-2xl p-6 text-center
+w-14 h-14 rounded-full bg-emerald-100 border border-emerald-200 grid place-items-center text-
+mt-4 rounded-xl bg-zinc-50 border p-3 text-
+ First in, first out. Admin will process front of line.
+mt-4 w-full h-10 rounded-full bg-zinc-900 text-white text-
+fixed bottom-4 left-1
+rounded-full bg-zinc-900 text-white px-4 py-3 shadow-xl flex items-center gap-3 border border-white
+ px-2 py-1 rounded-full bg-white
+10 border border-white
+ mx-auto px-4 md:px-6 pb-8 text-
+Built as single-page visual blueprint 
+ Prototype uses in-memory state only.
+document.getElementById
+nf.default.StrictMode,
+document.querySelectorAll
+document.readyState!
+document.addEventListener
+document.addEventListener
+ data-clippy-inline-media-manifest
